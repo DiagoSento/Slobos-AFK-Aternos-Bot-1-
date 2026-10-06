@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "9th_Lifesteal_SMP_S3.aternos.me",
-    "port": 36172,
+    "ip": "lifestealsmp.tkmc.net",
+    "port": 50964,
     "version": "",
     "try-creative": false
   },
