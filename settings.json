@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifestealsmp.tkmc.net",
-    "port": 50964,
+    "ip": "node-sg-free-01.tickhosting.com",
+    "port": 50138,
     "version": "",
     "try-creative": false
   },
